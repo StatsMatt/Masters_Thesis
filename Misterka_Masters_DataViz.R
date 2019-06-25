@@ -93,5 +93,3 @@ attitudes<-ggplot(data = sta363_tall)+
 subtitle = "Positive Attitudes > 0.5, Negative Attitudes < 0.5",
        y="Composite Score",x="Survey")+facet_grid(.~component)
 attitudes
-
-# ggsave(filename="attitudes2.png",width=11,height=6,units='in',dpi=300)
