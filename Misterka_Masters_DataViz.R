@@ -4,7 +4,7 @@
 ### required libraries ###
 library(tidyverse)
 ###
-setwd("C:\\Users\\Matt\\Documents\\Masters Project\\363_AB_data")
+setwd("C:\\Users\\Matt\\Documents\\Masters_Project\\363_AB_data")
 
 # Read in data
 # the columns represent the student and 36 items on the SATS
